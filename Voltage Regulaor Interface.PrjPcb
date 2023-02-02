@@ -100,40 +100,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SEZMYDMX
 
 [Document4]
-DocumentPath=..\..\..\..\Downloads\ul_39291028\AltiumDesigner\2023-01-04_06-46-49\39291028.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TQRSMBEG
-
-[Document5]
-DocumentPath=..\..\..\..\Downloads\ul_39281023\AltiumDesigner\2023-01-04_06-58-35\39281023.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SROPTAGK
-
-[Document6]
 DocumentPath=VR Interface PCBLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NOBDESCB
 
-[Document7]
+[Document5]
 DocumentPath=24V Rail.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UYNMCOXM
 
-[Document8]
+[Document6]
 DocumentPath=48V Rail.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
